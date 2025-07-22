@@ -29,8 +29,9 @@ An immersive Augmented Reality (AR) balloon shooting game built with Unity and A
 
 ## 📝 About the Project
 
-**AR Balloon Shooter** is a cutting-edge mobile AR game that brings the excitement of balloon shooting into your real-world environment. Leveraging Unity and ARCore, this project demonstrates advanced AR integration, dynamic gameplay, and polished user experience.
 ![Thumbnail](https://github.com/user-attachments/assets/5ed0fa67-76a2-49de-b145-9eb1802e3527)
+**AR Balloon Shooter** is a cutting-edge mobile AR game that brings the excitement of balloon shooting into your real-world environment. Leveraging Unity and ARCore, this project demonstrates advanced AR integration, dynamic gameplay, and polished user experience.
+
 
 ## ✨ Features
 
@@ -43,9 +44,9 @@ An immersive Augmented Reality (AR) balloon shooting game built with Unity and A
 
 <h2 id="screenshots" align="center">🖼️ Screenshots</h2>
 <p align="center">
-  <img src="screenshots/screenshot1.jpg" alt="Gameplay Screenshot 1" width="300" style="margin: 10px;"/>
-  <img src="screenshots/screenshot2.jpg" alt="Gameplay Screenshot 2" width="300" style="margin: 10px;"/>
-  <img src="" alt="Gameplay Screenshot 3" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/bd9baacf-0c65-4866-b3fb-130ab9cfb37a" alt="Gameplay Screenshot 1" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/8be5e9b7-843b-4cd1-9642-6491dacfc141" alt="Gameplay Screenshot 2" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/9946738a-84cc-411c-a1e8-b263b77d0b38" alt="Gameplay Screenshot 3" width="300" style="margin: 10px;"/>
 </p>
 
 <p align="center">
